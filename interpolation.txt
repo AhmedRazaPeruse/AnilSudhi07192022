@@ -1,0 +1,5 @@
+1.with vaiable
+2.with function
+3.with object
+4.with array
+5.much more
